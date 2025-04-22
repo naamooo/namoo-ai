@@ -1,0 +1,8 @@
+fastapi
+python-dotenv
+sqlalchemy
+google-genai
+requests
+uvicorn
+google.generativeai
+alembic
