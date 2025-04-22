@@ -7,7 +7,7 @@ import logging
 
 load_dotenv()
 
-app = FastAPI()
+app = FastAPI() 
 
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
